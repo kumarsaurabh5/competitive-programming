@@ -1,0 +1,5 @@
+#this is a program to check a number is even or odd.
+a=input(int("enter a number:"))
+b=input(int("enter a number:"))
+c=a+b
+print("the value of c is:",c)

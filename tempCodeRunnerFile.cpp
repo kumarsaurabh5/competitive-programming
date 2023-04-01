@@ -1,0 +1,1 @@
+cout << abs(stoi(t) - stoi(s))<<endl;
